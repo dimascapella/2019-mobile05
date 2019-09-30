@@ -239,8 +239,8 @@
             android:id="@+id/Desc"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="30dp"
-            android:layout_marginRight="30dp"
+            android:layout_marginStart="40dp"
+            android:layout_marginEnd="40dp"
             android:text='The Handstand push-up (press-up) - also called the vertical push-up (press-up) also called "commandos"-is a type of push-up exercise where the body is positioned in a handstand. To prepare the strength until one has built adequate balance.'
             android:textSize="18sp"
             app:layout_constraintBottom_toTopOf="@+id/guideline10"

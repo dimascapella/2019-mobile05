@@ -218,8 +218,8 @@
             android:id="@+id/Desc"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="30dp"
-            android:layout_marginRight="30dp"
+            android:layout_marginStart="40dp"
+            android:layout_marginEnd="40dp"
             android:text='A dip is an upper-body strength exercise. Narrow, shoulder-width dips primarily train the triceps, with major synergists being the anterior deltoid, the pectoralis muscles (sternal, clavicular, and minor), and the rhomboid muscles of the back (in that order).'
             android:textSize="18sp"
             app:layout_constraintBottom_toTopOf="@+id/guideline10"
